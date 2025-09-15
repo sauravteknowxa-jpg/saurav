@@ -246,7 +246,7 @@ function Home(){
                     </div>      
                 </div>
 
-                <div className="w-full bg-gray-300 md:p-10  ">
+            <div className="w-full bg-gray-300 md:p-10  ">
                 <div className=" mx-auto flex flex-col md:flex-row gap-4 bg-gray-300 p-2  md:py-20 w-full">
                     <div className="flex flex-col items-center md:items-start text-center md:text-left justify-center gap-12 md:w-1/2  p-0 md:p-6 ">
                         <h2 className="text-2xl lg:text-6xl text-left font-semibold text-black">What I do?</h2>
