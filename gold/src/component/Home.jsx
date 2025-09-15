@@ -28,7 +28,7 @@ function Home(){
                     </div>
                     <div className="flex items-stretch justify-end  md:w-1/2 w-full">
                         <img
-                        src="/image/Saurav1.jpg"
+                        src="/image/Saurav2.jpg"
                         alt=""
                         className="h-auto w-auto rounded-4xl"
                         />
@@ -40,7 +40,7 @@ function Home(){
                 <div className="  flex flex-col md:flex-row gap-4 bg-[#fff] p-2 md:px-20 md:py-20 w-full rounded-4xl shadow-2xl  " >
                     <div className="flex items-stretch justify-center  md:w-1/2 w-full">
                         <img
-                        src="/image/Saurav1.jpg"
+                        src="/image/Saurav2.jpg"
                         alt=""
                         className="h-auto w-auto rounded-4xl"
                         />
